@@ -1,0 +1,7 @@
+{
+  "name": "QuizMaster Checker Pro",
+  "description": "A professional-grade MCQ assessment tool for quiz competition checkers. Use AI to scan a master key and automatically grade student answer sheets from photos or digital uploads.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
